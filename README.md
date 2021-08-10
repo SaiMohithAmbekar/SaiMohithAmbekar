@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaiMohitAmbekar
-- 👀 I’m interested in being a Full Stack Developer. 
+- 👀 I want to become a Full Stack Developer.
 - 🌱 I’m currently doing my B.Tech from SRMIST.
 - 💞️ I’m open to collaborate on any project.
 - 📫 How to reach me @asaimohith@gmail.com
