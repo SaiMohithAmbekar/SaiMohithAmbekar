@@ -12,7 +12,7 @@
 - 📫 I’m open to collaborate on any projects based on Web Development and Artificial Intelligence & Machine Learning.
 - 💞️ How to reach me https://www.linkedin.com/in/sai-mohit-ambekar-3a91b721a/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiMohithAmbekar&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiMohithAmbekar&theme=highcontrast)
 
 <!---
 SaiMohithAmbekar/SaiMohithAmbekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
