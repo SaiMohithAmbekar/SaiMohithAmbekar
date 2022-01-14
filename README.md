@@ -17,7 +17,7 @@
 
 <h3>Check out my Coding Skills:</h3>
 <p align="left">
-  <a href="https://www.hackerrank.com/sa6331" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Saimohith" height="45" width="45" /></a>
+  <a href="https://www.hackerrank.com/sa6331" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Saimohith" height="50" width="60" /></a>
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiMohithAmbekar&theme=radical)
