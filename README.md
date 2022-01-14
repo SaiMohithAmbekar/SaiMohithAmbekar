@@ -16,7 +16,7 @@
 - 💞️ How to reach me https://www.linkedin.com/in/sai-mohit-ambekar-3a91b721a/
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiMohithAmbekar&theme=radical)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiMohithAmbekar&show_icons=true&locale=en&layout=compact" alt="Sai_Mohit_Ambekar"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiMohithAmbekar&show_icons=true&locale=en&layout=compact" alt="Sai_Mohit_Ambekar" />
 
 <!---
 SaiMohithAmbekar/SaiMohithAmbekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
