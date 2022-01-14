@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+
 - 👋 Hi, I’m @SaiMohitAmbekar
 - 👀 I'm want to become Full Stack Developer.<br>
 - 💞️ I’m interested in
