@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @SaiMohitAmbekar</h1>
+<h1 align="center">👋 Hi, I’m Sai Mohit Ambekar</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
