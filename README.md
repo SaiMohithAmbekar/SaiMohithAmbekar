@@ -15,7 +15,7 @@
 - 📫 I’m open to collaborate on any projects based on Web Development and Artificial Intelligence & Machine Learning.
 - 💞️ How to reach me https://www.linkedin.com/in/sai-mohit-ambekar-3a91b721a/
 
-<h3>Check out my Coding Skills:</h3>
+<h4>Check out my Coding Skills:</h4>
 <p align="left">
   <a href="https://www.hackerrank.com/sa6331" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Saimohith" height="50" width="50" /></a>
 </p>
