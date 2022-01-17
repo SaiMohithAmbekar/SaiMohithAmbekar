@@ -2,7 +2,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 👀 I'm want to become Full Stack Developer.<br>
+- 👀 I'm want to become Full Stack Developer.
+- I'm currently working on my portfolio website.
 - 💞️ I’m interested in
    <ul><li> Python and C++ </li>
    <li> Web Development. </li>
