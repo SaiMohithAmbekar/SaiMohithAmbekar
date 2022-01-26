@@ -14,7 +14,7 @@
        <li> Artificial Intelligence & Machine Learning. </li>
        <li> Data Structures and Algorithms. </li></ul>
 - 📫 I’m open to collaborate on any projects based on Web Development and Artificial Intelligence & Machine Learning.
-- 💞️ How to reach me https://www.linkedin.com/in/sai-mohit-ambekar-3a91b721a/
+- How to reach me https://www.linkedin.com/in/sai-mohit-ambekar-3a91b721a/
 
 <h4>Check out my Coding Skills:</h4>
 <p align="left">
