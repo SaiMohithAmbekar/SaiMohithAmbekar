@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Sai Mohit Ambekar</h1>
 
-<img src="https://raw.githubusercontent.com/SaiMohithAmbekar/SaiMohithAmbekar/main/assets/illustration.png" min-width="400px" max-width="400px" width="350px" align="right">
+<img src="https://raw.githubusercontent.com/SaiMohithAmbekar/SaiMohithAmbekar/main/assets/illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 👀 I'm want to become Full Stack Developer.
 - I'm currently working on my portfolio website.
