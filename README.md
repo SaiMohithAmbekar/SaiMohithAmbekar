@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Sai Mohit Ambekar</h1>
+<h1 align="center">👋 Hi, I’m Sai Mohit Ambekar.</h1>
 
 <img src="https://raw.githubusercontent.com/SaiMohithAmbekar/SaiMohithAmbekar/main/assets/illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
