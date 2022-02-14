@@ -1,4 +1,12 @@
+<!--- Body Begins -->
 <h1 align="center">👋 Hi, I’m Sai Mohit Ambekar</h1>
+
+<!--- Adding Header Elements -->
+<p align="center">
+  <a href="https://saimohithambekar.github.io/Portfolio/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/sai-mohit-ambekar-3a91b721a/">LinkedIn</a></p>
+  
+  -----------------------------------------------------------
 
 <img src="https://raw.githubusercontent.com/SaiMohithAmbekar/SaiMohithAmbekar/main/assets/illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
