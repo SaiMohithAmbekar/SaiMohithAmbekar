@@ -3,8 +3,8 @@
 
 <!--- Adding Header Elements -->
 <p align="center" >
-  <a href="https://saimohithambekar.github.io/Portfolio/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/sai-mohit-ambekar-3a91b721a/">LinkedIn</a></p>
+  <a href="https://saimohithambekar.github.io/Portfolio/" target="_blank">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/sai-mohit-ambekar-3a91b721a/" target="_blank">LinkedIn</a></p>
   
   -----------------------------------------------------------
 
