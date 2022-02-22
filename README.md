@@ -11,7 +11,6 @@
 <img src="https://raw.githubusercontent.com/SaiMohithAmbekar/SaiMohithAmbekar/main/assets/illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 👀 I'm want to become Full Stack Developer.
-- I'm currently working on my portfolio website.
 - 💞️ I’m interested in
    <ul><li> Python and C++ </li>
    <li> Web Development. </li>
