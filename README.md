@@ -11,18 +11,17 @@
 <img src="https://raw.githubusercontent.com/SaiMohithAmbekar/SaiMohithAmbekar/main/assets/illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 👀 I'm want to become Full Stack Developer.
-- 👀 I'm currently learning React.js.
 - 💞️ I’m interested in
    <ul><li> Python and C++ </li>
    <li> Web Development. </li>
    <li> Artificial Intelligence & Machine Learning. </li></ul>
 - 🌱 I’m currently doing my B.Tech from SRMIST.
    <ul><li> I'm Currently learning </li>
-       <li> App Development. </li>
+       <li> React.js. </li>
+       <li> Node.js, MongoDB </li>
        <li> Artificial Intelligence & Machine Learning. </li>
        <li> Data Structures and Algorithms. </li></ul>
 - 📫 I’m open to collaborate on any projects based on Web Development and Artificial Intelligence & Machine Learning.
-- How to reach me https://www.linkedin.com/in/sai-mohit-ambekar-3a91b721a/
 
 <h4>Check out my Coding Skills:</h4>
 <p align="left">
