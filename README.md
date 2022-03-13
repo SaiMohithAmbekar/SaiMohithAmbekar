@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I’m Sai Mohit Ambekar</h1>
 
 <!--- Adding Header Elements -->
-<p align="center" >
+<p align="center">
   <a href="https://saimohithambekar.github.io/Portfolio/" target="_blank">Portfolio</a> -
   <a href="https://www.linkedin.com/in/sai-mohit-ambekar-3a91b721a/" target="_blank">LinkedIn</a></p>
   
@@ -18,7 +18,7 @@
 - 🌱 I’m currently doing my B.Tech from SRMIST.
    <ul><li> I'm Currently learning </li>
        <li> React.js. </li>
-       <li> Node.js, MongoDB </li>
+       <li> Node.js, MongoDB. </li>
        <li> Artificial Intelligence & Machine Learning. </li>
        <li> Data Structures and Algorithms. </li></ul>
 - 📫 I’m open to collaborate on any projects based on Web Development and Artificial Intelligence & Machine Learning.
