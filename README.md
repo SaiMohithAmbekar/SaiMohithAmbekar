@@ -4,7 +4,10 @@
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="https://saimohithambekar.github.io/Portfolio/" target="_blank">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/sai-mohit-ambekar-3a91b721a/" target="_blank">LinkedIn</a></p>
+  <a href="https://www.linkedin.com/in/sai-mohit-ambekar-3a91b721a/" target="_blank">LinkedIn</a> -
+    <a href="https://saimohithambekar.github.io/TextUtils/" target="_blank">TextUtils</a>
+
+</p>
   
   -----------------------------------------------------------
 
