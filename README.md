@@ -1,5 +1,5 @@
 <!--- Body Begins -->
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> Hi, I’m Sai Mohit Ambekar</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px"> Hi, I’m Sai Mohit Ambekar</h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
