@@ -36,6 +36,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiMohithAmbekar&theme=radical)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiMohithAmbekar&show_icons=true&locale=en&layout=compact" alt="Saimohith" /></p>
+<!-- [![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/SaiMohithAmbekar/SaiMohithAmbekar@output/github-contribution-grid-snake.svg)](https://github.com/SaiMohithAmbekar) -->
+<!-- [![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/SaiMohithAmbekar/SaiMohithAmbekar@output/github-contribution-grid-snake-dark.svg)](https://github.com/SaiMohithAmbekar) -->
+[![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/SaiMohithAmbekar/SaiMohithAmbekar@output/github-contribution-grid-snake-dark.gif)](https://github.com/SaiMohithAmbekar)
 <!---
 SaiMohithAmbekar/SaiMohithAmbekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
